@@ -33,7 +33,8 @@ Then, open Eloquent project and change the following:
 
 Change the python.exe path with your path
 
-```python {
+```
+python {
             buildPython "C:/Users/YourUserName/AppData/Local/Programs/Python/Python38/python.exe"
             buildPython "python"
             
