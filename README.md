@@ -3,11 +3,11 @@
 
 
 ##  Requirements
-- [Python 3.8.6]
-- [JDK 13.0.2]
-- [XAMPP 8.0.3]
-- [Android Studio 4.1.1]
-- [Android-based phone]
+- Python 3.8.6
+- JDK 13.0.2
+- XAMPP 8.0.3
+- Android Studio 4.1.1
+- Android-based phone
 
 
 ## Getting Started
