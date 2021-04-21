@@ -44,7 +44,9 @@ python {
 #### Classes
 
 Make sure your computer device and android device are on the same network. Then, open CMD and write:
-* ipconfig
+```
+ipconfig
+```
 
 Copy the IPv4 Address. In Android Studio * Move to `app/src/main/java/com/example/eloquent`
 
