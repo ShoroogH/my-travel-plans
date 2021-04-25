@@ -26,7 +26,7 @@ Install the XAMPP 8.0.3, then * Move `/xampp` folder to `C:\` folder.
 - [How To Download,Install & Run PhpMyAdmin](https://www.youtube.com/watch?v=zYfv35mi6V8&t=467s)
 
 ### Android Studio
-Install Android Studio 4.1.1, * Unzip folder `/Eloquent_G#18` Move `/Eloquent` folder to `C:\Users\YourUserName\AndroidStudioProjects` folder.
+Install Android Studio 4.1.1, * Unzip folder `/Eloquent_G#18`, move `/Eloquent4` folder to `C:\Users\YourUserName\AndroidStudioProjects` folder.
 Then, open Eloquent project and change the following:
 
 #### Gradle
